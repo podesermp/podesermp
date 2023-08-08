@@ -10,6 +10,7 @@ Estudo em Quixadá, mas minha cidade natal é Itapipoca, então transito entre a
 - Desenvolvimento front-end: **Angular**
 - Desenvolvimento mobile: **React Native, Android**
 - Desenvolvimento back-end: **FastAPI, ExpressJS**
+- Dados: **Python, Visão Computacional, NLP, Engenharia de dados, Pyspark, Airflow, BigData**
 
 ### Linguagens e ferramentas
 <code><img alt="Angular" src="https://img.shields.io/badge/angular-%23ec1000.svg?style=for-the-badge&logo=angular&logoColor=white"/></code>
