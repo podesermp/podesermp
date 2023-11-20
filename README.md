@@ -1,7 +1,6 @@
 ### <strong>Oi, eu sou </strong> < Marcos Paulo > :stuck_out_tongue_winking_eye: :v:
 
-Sou estudante de engenharia da computação, estudo programação desde 2017. 
-Estudo em Quixadá, mas minha cidade natal é Itapipoca, então transito entre as duas cidades.
+Fui estudante de Engenharia de Computação na Universidade Federal do Ceará (UFC) mas fiquei apenas com experiências com programação de baixo nível pois não finalizei o curso. Meu contato com programação começou em 2017 e desde lá estudei linguagens voltadas para desenvolvimento WEB (frontend e backend) e me encontrei de fato na área de dados e machine learning. Atualmente faço o curso de Análise e Desenvolvimento de Sistemas.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marcospaulorocharodrigues/)
 [<img src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@podesermp)
